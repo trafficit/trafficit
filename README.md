@@ -3,28 +3,26 @@
 ## Professional Profile 
 Experienced DevOps engineer specializing in high-availability infrastructure, server management, and automation. Currently developing **Snapfi.pro** — a smart financial assistant with AI-powered data processing.
 
-DevOps-инженер с опытом в построении отказоустойчивых инфраструктур, управлении серверами и автоматизации. В данный момент развиваю **Snapfi.pro** — умный финансовый помощник с обработкой данных на базе ИИ.
-
 ---
 
 ## Featured Project: [Snapfi.pro](https://snapfi.pro)
-**Smart Home Accounting / Домашняя бухгалтерия**
+**Smart Home Accounting **
 *   **Concept:** Seamless expense tracking via voice, text, and receipt scanning.
 *   **Technologies:** Python, AI analysis, Tesseract OCR for scanning, Telegram Bot interface.
 *   **Features:** Instant expense analysis, automated categorization, and mobile-first approach.
 
 ---
 
-## Technical Expertise / Технические навыки
+## Technical Expertise 
 
-### Infrastructure & DevOps / Инфраструктура
+### Infrastructure & DevOps 
 *   **Orchestration:** K3s, Kubernetes (K8s), Docker & Docker Compose.
 *   **Infrastructure as Code (IaC):** Terraform, Ansible.
 *   **Networking & Security:** Wireguard VPN, Server hardening, SSL/TLS management.
 *   **CI/CD:** GitHub Actions, GitLab CI.
 *   **Monitoring:** Prometheus, Grafana.
 
-### Software Development / Разработка
+### Software Development 
 *   **Languages:** Python (Asyncio, AI integrations), C#, Bash.
 *   **Specialized Tools:** Tesseract OCR (Optical Character Recognition), Telegram Bot API.
 *   **Database & Storage:** PostgreSQL, Redis.
