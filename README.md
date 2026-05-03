@@ -34,9 +34,9 @@ DevOps-инженер с опытом в построении отказоуст
 ## GitHub Statistics / Статистика GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trafficit&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="trafficit GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trafficit&show_icons=true&theme=transparent" alt="trafficit GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trafficit&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trafficit&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
@@ -49,4 +49,4 @@ DevOps-инженер с опытом в построении отказоуст
 ---
 ## Contacts & Freelance / Контакты и фриланс
 *   **Personal Website / Orders:** [wizardid.pro](https://wizardid.pro)
-*   **Email:** [trafficxxi@gmail.com](mailto:trafficxxi@gmail.com)
+  
