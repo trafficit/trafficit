@@ -31,14 +31,17 @@ DevOps-инженер с опытом в построении отказоуст
 
 ---
 
-## GitHub Statistics / Статистика GitHub
+---
+
+## GitHub Activities / Статистика GitHub
+
+![trafficit's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=trafficit&theme=react-dark&hide_border=true)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trafficit&show_icons=true&theme=transparent" alt="trafficit GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trafficit&theme=dark" alt="trafficit GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trafficit&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trafficit&theme=dark" alt="Top Languages" />
 </p>
-
 ---
 
 ## Achievements / Достижения
