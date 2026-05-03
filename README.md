@@ -1,4 +1,4 @@
-# trafficit | DevOps & Platform Engineer
+# Wizard | DevOps & Platform Engineer
 
 ## Professional Profile / Профессиональный профиль
 Experienced DevOps engineer specializing in high-availability infrastructure, server management, and automation. Currently developing **Snapfi.pro** — a smart financial assistant with AI-powered data processing.
