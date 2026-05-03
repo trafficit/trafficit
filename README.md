@@ -47,9 +47,9 @@ DevOps-инженер с опытом в построении отказоуст
 
 ## Portfolio & Experience 
 
-* **Commercial Project / Коммерческий проект:** [Snapfi.pro](https://snapfi.pro) — Smart Financial Assistant (Full-cycle development from DevOps to AI integration).
+* **Commercial Project:** [Snapfi.pro](https://snapfi.pro) — Smart Financial Assistant (Full-cycle development from DevOps to AI integration).
 * **Case Study / Кейс:** Implementation of secure infrastructure for mobile accounting using K3s and Wireguard.
 
-## Contacts & Freelance / Контакты и фриланс
+## Contacts & Freelance 
 
 * **Personal Website / Orders:** [wizardid.pro](https://wizardid.pro) — Professional DevOps & Development services.
