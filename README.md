@@ -43,7 +43,8 @@ DevOps-инженер с опытом в построении отказоуст
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trafficit&theme=dark" alt="Top Languages" />
 </p>
 ---
-
+## Portfolio & Experience / Портфолио и опыт
+*   **Commercial Project / Коммерческий проект:** [Snapfi.pro](https://snapfi.pro) — Smart Financial Assistant (Full-cycle development from DevOps to AI integration).
+*   **Case Study / Кейс:** Implementation of secure infrastructure for mobile accounting using K3s and Wireguard.
 ## Contacts & Freelance / Контакты и фриланс
 *   **Personal Website / Orders:** [wizardid.pro](https://wizardid.pro)
-  
