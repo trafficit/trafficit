@@ -1,6 +1,6 @@
 # Wizard | DevOps & Platform Engineer
 
-## Professional Profile / Профессиональный профиль
+## Professional Profile 
 Experienced DevOps engineer specializing in high-availability infrastructure, server management, and automation. Currently developing **Snapfi.pro** — a smart financial assistant with AI-powered data processing.
 
 DevOps-инженер с опытом в построении отказоустойчивых инфраструктур, управлении серверами и автоматизации. В данный момент развиваю **Snapfi.pro** — умный финансовый помощник с обработкой данных на базе ИИ.
