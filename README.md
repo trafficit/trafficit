@@ -44,12 +44,6 @@ DevOps-инженер с опытом в построении отказоуст
 </p>
 ---
 
-## Achievements / Достижения
-*   **Pair Extraordinaire:** Co-authored commits on merged pull requests.
-*   **Pull Shark:** Successfully merged complex pull requests.
-*   **YOLO:** Rapid deployment and direct contributions.
-
----
 ## Contacts & Freelance / Контакты и фриланс
 *   **Personal Website / Orders:** [wizardid.pro](https://wizardid.pro)
   
